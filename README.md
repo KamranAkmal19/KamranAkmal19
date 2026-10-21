@@ -1,80 +1,21 @@
-👋 Hey, I'm Kamran Akmal
+# 💫 About Me:
+🔭 I'm currently building software projects that combine backend engineering, AI, and real-world problem solving.<br><br>👯 I'm looking to collaborate on software development, AI/ML applications, and cloud-native engineering projects.<br><br>🤝 I'm looking for help with system design, production-ready AI systems, and scalable deployment practices.<br><br>🌱 I'm currently learning Data Structures & Algorithms, Machine Learning, LLMs & RAG, and DevOps fundamentals.<br><br>💬 Ask me about Python, problem solving, REST APIs, Flask, FastAPI, Computer Vision, YOLO, and AI-powered applications.<br><br>⚡ Fun fact: I enjoy exploring how great software is built, intelligent systems are created, and applications are deployed reliably at scale.
 
-AI Engineer in the Making | Computer Vision • Machine Learning • Generative AI
 
-I’m interested in building AI systems that do more than demonstrate a model — they solve problems, integrate with real applications, and create practical value.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-kamran-akmal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33224421) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamran13122003@gmail.com) 
 
-Currently exploring the intersection of machine learning, computer vision, and LLM-powered applications while building projects that turn ideas into working software.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KamranAkmal19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KamranAkmal19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KamranAkmal19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-""GitHub" (https://img.shields.io/badge/GitHub-KamranAkmal19-181717?style=for-the-badge&logo=github)" (https://github.com/KamranAkmal19)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/md-kamran-akmal)
-
----
-
-🧠 What I'm Focused On
-
-- Machine Learning & Computer Vision — developing intelligent systems that interpret visual data.
-- Generative AI & RAG — exploring how LLMs can retrieve relevant information and power useful applications.
-- AI Engineering — connecting models to APIs, backends, databases, and real-world workflows.
-- Problem Solving — strengthening programming fundamentals and building a deeper understanding of how systems work.
-
-🛠️ Tech Stack
-
-Languages & Data
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-AI & Computer Vision
-
-"Machine Learning" (https://img.shields.io/badge/Machine_Learning-102230?style=flat-square)
-"OpenCV" (https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-"YOLO" (https://img.shields.io/badge/YOLO-111F68?style=flat-square)
-"LLMs" (https://img.shields.io/badge/LLMs-412991?style=flat-square)
-"RAG" (https://img.shields.io/badge/RAG-00897B?style=flat-square)
-
-Backend & APIs
-
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-"Flask" (https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-🚀 Featured Project
-
-🅿️ AI-Powered Smart Parking & Urban Mobility Optimization System
-
-An intelligent parking solution focused on applying computer vision and software engineering to urban mobility challenges.
-
-Key components
-
-- Real-time vehicle detection using YOLO and OpenCV.
-- Parking slot-level intelligence for monitoring parking availability.
-- QR-based workflows for parking reservation and payment.
-- Predictive analytics for parking-related insights.
-- Emergency response integration as part of the system design.
-
-Technology: Python · Flask · YOLO · OpenCV · SQLite/MySQL · QR Codes
-
-🔗 "Explore my GitHub repositories" (https://github.com/KamranAkmal19)
-
-📊 GitHub Activity
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=KamranAkmal19&show_icons=true&hide_border=true&theme=tokyonight)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=KamranAkmal19&layout=compact&hide_border=true&theme=tokyonight)
-
-🌱 My Approach
-
-I believe good engineering is not just about making something work. It's about understanding the problem, choosing the right tools, testing assumptions, and building something useful.
-
-I'm continuously learning, experimenting, and improving — one project and one problem at a time.
-
-🤝 Let's Connect
-
-Interested in AI engineering, computer vision, Generative AI, or building something meaningful?
-
-- 💼 "Connect on LinkedIn" (https://www.linkedin.com/in/md-kamran-akmal)
-- 💻 "Explore my repositories" (https://github.com/KamranAkmal19)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=KamranAkmal19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Building with curiosity. Engineering with purpose. Learning without limits.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
